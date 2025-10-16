@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xscapefromme.xscapefromme" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7173B&background=FF28CC00&width=500&lines=currently+building+;locked+in+%F0%9F%94%92+%40xscapefromme" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7173B&background=FF28CC00&center=true&width=435&lines=currently+building;locked+in+%F0%9F%94%92+%40xscapefromme" />
 </h1>
 
 
