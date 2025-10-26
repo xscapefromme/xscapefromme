@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7173B&background=FF28CC00&center=true&width=435&lines=currently+building;locked+in+%F0%9F%94%92+%40xscapefromme" />
 </h1>
 
-
+- 🔭 I’m currently working on Javascript 
 <!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
